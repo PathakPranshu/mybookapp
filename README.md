@@ -9,7 +9,4 @@ Includes two entity:
 1. Book
 2. Author
 
-
-
-
-
+MyBookApp UI lets you to add books, view details about books and authors (JOINED table), and update the existing details.
