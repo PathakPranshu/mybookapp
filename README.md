@@ -2,7 +2,7 @@
 
 
 
-This is a Spring Boot project, exploring concepts from the Building DPA course. 
+This is a Spring Boot project, exploring concepts from the Building DB Application course. 
 
 Includes two entity: 
 
